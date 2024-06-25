@@ -1,0 +1,8 @@
+{
+    "editor.wordWrapColumn": 73,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "material-product-icons",
+    "workbench.preferredHighContrastColorTheme": "Python Dark Theme",
+    "workbench.editor.enablePreview": false,
+    "git.autofetch": true
+}
