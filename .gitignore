@@ -1,5 +1,7 @@
 *.DS_Store
 .vscode
+.git
+.gitignore
 
 CS263-Examples/
 CS263-Functions/
