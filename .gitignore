@@ -1,1 +1,5 @@
 *.DS_Store
+.vscode
+
+CS263-Examples/
+CS263-Functions/
